@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+li {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+header {
+	margin-top: 10px;
+}
+.menu {
+	width: 100%;
+	text-align: center;
+}
+.menu__item {
+	display: inline-block;
+	margin: 0 10px;
+}
