@@ -32,9 +32,6 @@ header {
 	margin: 0 10px;
 }
 section {
-	background: url(../images/server.png) ;
-	background-size: cover;
-	background-position-x: center;
 	height: 1000px;
 	width: 100%;
 	text-align: center;
@@ -46,4 +43,16 @@ section {
 }
 .content-block {
 
+}
+.empty {
+	background: url(../images/server.png) ;
+	background-size: cover;
+	background-position-x: center;
+	filter: blur(5px);
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	z-index: -10;
 }
