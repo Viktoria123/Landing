@@ -8,7 +8,7 @@ h1 {
 	padding: 0;
 }
 body {
-	font-family: Arial, sans-serif;
+	font-family: "Bague Sans", sans-serif;
 	background: #000000;
 }
 li {
@@ -75,7 +75,7 @@ section {
 .content-block {
 
 }
-.empty {
+.section-back {
 	background: url(../images/server.png) ;
 	background-size: cover;
 	background-position-x: center;
