@@ -56,6 +56,12 @@ section {
 .title {
 	font-size: 40px;
 	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.link-get-call {
+	text-transform: uppercase;
+	color: #ffffff;
+	font-weight: bold;
 }
 .link-download {
 	display: block;
