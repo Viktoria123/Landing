@@ -33,6 +33,7 @@ header {
 .menu__item {
 	display: inline-block;
 	margin: 0 10px;
+	font-weight: bold;
 }
 .menu__link {
 	color: #000000;
