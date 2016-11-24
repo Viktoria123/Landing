@@ -1,90 +1,83 @@
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-BlackItalic.otf") format("opentype");
-	font-weight: TODO;
+	font-style: italic;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-Black.otf") format("opentype");
-	font-weight: TODO;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-BoldItalic.otf") format("opentype");
-	font-weight: TODO;
+	font-weight: bold;
+	font-style: italic;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-Bold.otf") format("opentype");
-	font-weight: TODO;
+	font-weight: bold;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-HairlineItalic.otf") format("opentype");
-	font-weight: TODO;
+	font-style: italic;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-Hairline.otf") format("opentype");
-	font-weight: TODO;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-Italic.otf") format("opentype");
-	font-weight: TODO;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-LightItalic.otf") format("opentype");
-	font-weight: TODO;
+	font-style: italic;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-Light.otf") format("opentype");
-	font-weight: TODO;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-MediumItalic.otf") format("opentype");
-	font-weight: TODO;
+	font-style: italic;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-Medium.otf") format("opentype");
-	font-weight: TODO;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-Regular.otf") format("opentype");
-	font-weight: TODO;
+	font-weight: normal;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-ThinItalic.otf") format("opentype");
-	font-weight: TODO;
+	font-style: italic;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-Thin.otf") format("opentype");
-	font-weight: TODO;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-UBlackItalic.otf") format("opentype");
-	font-weight: TODO;
+	font-style: italic;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-UBlack.otf") format("opentype");
-	font-weight: TODO;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-XThinItalic.otf") format("opentype");
-	font-weight: TODO;
+	font-style: italic;
 }
 @font-face {
 	font-family: "Bague Sans";
 	src: url("//fonts.vika.guava.by/bague_sans/PFBagueSansPro-XThin.otf") format("opentype");
-	font-weight: TODO;
 }
