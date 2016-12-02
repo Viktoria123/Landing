@@ -98,14 +98,12 @@ header {
 .container-phone {
 	max-width: 900px;
 	margin: 0 auto;
-	border: 1px solid blue;
 }
 .wrapper-phone {
 	font-size: 0px;
 	line-height: 0px;
 	position: relative;
 	width: 80%;
-	border: 1px solid red;
 	margin: 0 auto;
 }
 .case-phone {
@@ -114,4 +112,15 @@ header {
 	padding: 5px;
 	min-height: 334px;
 	border-radius: 50px;
+}
+.case-phone:after {
+	content: "";
+	width: 100%;
+	height: 6px;
+	position: absolute;
+	left: 0;
+	bottom: -2px;
+	border-radius: 10%;
+	background: rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 30px #000000;
 }
