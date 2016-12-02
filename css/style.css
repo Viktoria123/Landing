@@ -145,3 +145,11 @@ header {
 	width: 1.5%;
 	height: 100%;
 }
+.buttons {
+	position: absolute;
+	bottom: -2px;
+	width: 30%;
+	height: 10px;
+	left: 12%;
+	background: pink;
+}
