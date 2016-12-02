@@ -113,7 +113,7 @@ header {
 	min-height: 334px;
 	border-radius: 50px;
 }
-.case-phone:after {
+.wrapper-phone:after {
 	content: "";
 	width: 100%;
 	height: 6px;
