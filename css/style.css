@@ -108,3 +108,9 @@ header {
 	border: 1px solid red;
 	margin: 0 auto;
 }
+.case-phone {
+	background: #ACACAE;
+	height: 100%;
+	padding: 5px;
+	min-height: 334px;
+}
