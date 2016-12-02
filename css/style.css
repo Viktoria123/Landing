@@ -127,3 +127,21 @@ header {
 	box-shadow: 0 0 30px #000000;
 	z-index: -1;
 }
+.case-phone:before {
+	content: "";
+	position: absolute;
+	top: 0;
+	right: 60px;
+	background: rgba(0, 0, 0, .15);
+	width: 1.5%;
+	height: 100%;
+}
+.case-phone:after {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 60px;
+	background: rgba(0, 0, 0, .15);
+	width: 1.5%;
+	height: 100%;
+}
