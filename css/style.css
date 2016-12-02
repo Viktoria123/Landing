@@ -153,3 +153,18 @@ header {
 	left: 12%;
 	background: pink;
 }
+.button {
+	background: linear-gradient(#5c5d61 0%, #999 50%, #999 59%, #5c5d61 100%);
+	box-shadow: 0 -1px 3px #666;
+	border-radius: 2px 2px 4px 4px;
+	position: relative;
+	margin-right: 10%;
+	padding-bottom: 2%;
+	display: inline-block;
+}
+.turn-sound {
+	width: 15%;
+}
+.control-sound {
+	width: 25%;
+}
